@@ -1,4 +1,5 @@
 Name        Status          Summary
+
 Assign1     Working         Generate 100 random numbers and sort them; use the same seed value for replication
 
 Assign2     Working         Generate two integer vectors and compare them;
