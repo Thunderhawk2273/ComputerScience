@@ -21,9 +21,9 @@ using std::vector;
 
 // Data files
 
-#define D1 "/home/turing/t90kjm1/CS241/Data/Spring2015/Assign8/data8a.txt"
-#define D2 "/home/turing/t90kjm1/CS241/Data/Spring2015/Assign8/data8b.txt"
-#define D3 "/home/turing/t90kjm1/CS241/Data/Spring2015/Assign8/data8c.txt"
+#define D1 "./data8a.txt"   //Ints
+#define D2 "./data8b.txt"   //Floats
+#define D3 "./data8c.txt"   //Strings
 
 // Output formatting constants
 
