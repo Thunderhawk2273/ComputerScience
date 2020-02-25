@@ -1,8 +1,6 @@
 /*********************************************************************
-   PROGRAM:    CSCI 241 Assignment 9
+   PROGRAM:    Application 9
    PROGRAMMER: William Freriks
-   LOGON ID:   z1698749
-   DUE DATE:   04/28/2015
 
    FUNCTION:   This program builds classes of colored shapes
 		and prints out their dimensions.
