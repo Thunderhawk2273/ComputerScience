@@ -4,8 +4,6 @@
 //*****************************************************************
 // FILE:      Queue.h
 // AUTHOR:    William Freriks
-// LOGON ID:  Z1698749
-// DUE DATE:  4/7/15
 //
 // PURPOSE:   Contains the declarations for the Queue class.
 //*****************************************************************
