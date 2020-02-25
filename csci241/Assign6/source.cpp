@@ -1,8 +1,5 @@
 /*********************************************************************
-   PROGRAM:    CSCI 241 Assignment 6
-   PROGRAMMER: your name
-   LOGON ID:   your z-ID
-   DUE DATE:   due date of assignment
+   PROGRAM:    Application 6
 
    FUNCTION:   This program tests the functionality of the Queue
                class.
