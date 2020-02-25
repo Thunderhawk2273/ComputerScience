@@ -1,9 +1,6 @@
 
-# PROGRAM:    assign2
+# PROGRAM:    Application 7
 # PROGRAMMER: William Freriks
-# LOGON ID:   
-# DATE DUE:   2/12/2015
-#
 
 # Compiler variables
 CCFLAGS = -ansi -Wall -ggdb
