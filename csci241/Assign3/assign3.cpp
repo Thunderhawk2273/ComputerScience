@@ -1,6 +1,8 @@
 /*********************************************************************
    PROGRAM:    Application 3
    
+   PROGRAMMER: Will Freriks
+   
    FUNCTION:   This program tests the functionality of the Verifier
                class.
 *********************************************************************/  
