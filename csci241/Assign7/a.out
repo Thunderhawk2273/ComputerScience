@@ -1,0 +1,63 @@
+Testing default constructor
+
+s1 (size 0): 
+s1 is empty
+
+Testing push()
+
+s1 (size 1): 17 
+s1 is not empty
+
+s1 (size 4): 4 6 2 17 
+s1 is not empty
+
+Testing copy constructor
+
+s1 (size 4): 4 6 2 17 
+s2 (size 4): 4 6 2 17 
+
+Testing clear()
+
+s1 (size 0): 
+s2 (size 4): 4 6 2 17 
+
+s3 (size 4): 28 75 41 36 
+
+Testing assignment operator
+
+s3 (size 4): 28 75 41 36 
+s4 (size 4): 28 75 41 36 
+
+s3 (size 0): 
+s4 (size 4): 28 75 41 36 
+
+Testing assignment to self
+
+s3 (size 4): 28 75 41 36 
+s4 (size 0): 
+
+Testing chained assignment
+
+s3 (size 4): 28 75 41 36 
+s4 (size 4): 28 75 41 36 
+s5 (size 4): 28 75 41 36 
+
+Testing top(), push(), pop()
+
+s6 (size 10): j i h g f e d c b a 
+
+s6 (size 0): 
+s7 (size 10): a b c d e f g h i j 
+
+Testing top()
+top() works
+
+Testing const correctness
+
+s6 (size 10): a b c d e f g h i j 
+s6 is not empty
+Top item of s6: a
+
+s7 (size 10): a b c d e f g h i j 
+s8 (size 10): a b c d e f g h i j 
+
