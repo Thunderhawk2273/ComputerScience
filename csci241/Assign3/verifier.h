@@ -1,9 +1,5 @@
 /* * * * * * * * * * * * * * * * * * * * * * * *
-Program: Assignment 7
-
 Programmer: WIlliam freriks
-
-Due: 2/26/2015
 
 Purpose: To verify if the sudoku puzzle has a
 		valid solution or not
