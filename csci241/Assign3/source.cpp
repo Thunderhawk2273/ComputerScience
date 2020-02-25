@@ -1,8 +1,5 @@
 /*********************************************************************
-   PROGRAM:    CSCI 241 Assignment 3
-   PROGRAMMER: your name
-   LOGON ID:   your z-ID
-   DUE DATE:   2/27/2015
+   PROGRAM:    Assignment 3
 
    FUNCTION:   This program tests the functionality of the Verifier
                class.
