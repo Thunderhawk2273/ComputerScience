@@ -7,7 +7,7 @@ Program: quicksort.h
 Programmer: William Freriks
 
 Purpose: Class definitions for the source.cpp file
-		in Assignment 8
+		in Application 8
 * * * * * * * * * * * * * * * * * * * * * * * * * */
 
 #include <iostream>
