@@ -1,0 +1,14 @@
+Printing all shapes...
+
+red circle, radius 15, area 47.1225
+blue rectangle, height 12, width 13, area 156
+yellow triangle, height 24, base 13, area 156
+magenta circle, radius 23, area 72.2545
+cyan rectangle, height 5, width 15, area 75
+gold triangle, height 3, base 45, area 67.5
+
+Printing only triangles...
+
+yellow triangle, height 24, base 13, area 156
+gold triangle, height 3, base 45, area 67.5
+End of file
