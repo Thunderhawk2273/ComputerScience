@@ -1,9 +1,5 @@
 /*********************************************************************
-   PROGRAM:    CSCI 241 Assignment 8
-   PROGRAMMER: your name
-   LOGON ID:   your z-ID
-   DUE DATE:   due date of assignment
-
+   PROGRAM:    Application 8
    FUNCTION:   This program builds and sorts lists using the quick
                sort algorithm.
 *********************************************************************/
