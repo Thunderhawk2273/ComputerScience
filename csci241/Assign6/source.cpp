@@ -1,5 +1,5 @@
 /*********************************************************************
-   PROGRAM:    Application 5
+   PROGRAM:    Application 6
 
    FUNCTION:   This program tests the functionality of the Queue
                class.
