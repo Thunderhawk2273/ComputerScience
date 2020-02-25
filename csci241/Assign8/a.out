@@ -1,0 +1,79 @@
+*** CSCI 241: Assignment 8 - Output ***
+
+First list - ascending order:
+
+   0    1   11   11   15   17   17   19   21   22   27   29   31   31   32 
+  33   33   33   34   39   43   45   46   51   51   52   53   55   55   55 
+  60   61   61   62   64   66   67   69   69   71   76   76   77   81   82 
+  82   83   85   86   88   88   89   92   94   95   95   99   99  100 
+
+First list - descending order:
+
+ 100   99   99   95   95   94   92   89   88   88   86   85   83   82   82 
+  81   77   76   76   71   69   69   67   66   64   62   61   61   60   55 
+  55   55   53   52   51   51   46   45   43   39   34   33   33   33   32 
+  31   31   29   27   22   21   19   17   17   15   11   11    1    0 
+
+Second list - descending order:
+
+  99.87   99.30   98.14   96.86   96.01   95.82   95.65   94.31   93.95 
+  93.75   89.52   85.69   85.00   80.13   78.06   77.04   75.68   73.51 
+  73.35   59.98   59.62   59.19   58.92   57.21   56.74   55.94   55.58 
+  54.96   54.75   51.54   47.82   46.22   45.47   45.46   44.75   44.69 
+  44.68   43.96   43.05   39.29   35.56   24.75   23.74   22.91   22.18 
+  20.62   17.46   17.35   17.33   15.52   14.79   14.60   13.93    9.89 
+   7.97    7.73    3.46    2.91    0.10 
+
+Second list - ascending order:
+
+   0.10    2.91    3.46    7.73    7.97    9.89   13.93   14.60   14.79 
+  15.52   17.33   17.35   17.46   20.62   22.18   22.91   23.74   24.75 
+  35.56   39.29   43.05   43.96   44.68   44.69   44.75   45.46   45.47 
+  46.22   47.82   51.54   54.75   54.96   55.58   55.94   56.74   57.21 
+  58.92   59.19   59.62   59.98   73.35   73.51   75.68   77.04   78.06 
+  80.13   85.00   85.69   89.52   93.75   93.95   94.31   95.65   95.82 
+  96.01   96.86   98.14   99.30   99.87 
+
+Third list - ascending order:
+
+Creed        Cystalridge  Dixen        Farrow       Fernbluff    
+Grand        Grande       Maker        Meadowbrooke Oak          
+Oathbreaker  Owl          Petrified    Up           acorn        
+apple        bard         barley       bluff        book         
+caucaphony   centimeter   cliff        cold         crocodile    
+doe          dog          draft        edgelord     effortless   
+ethereal     falcon       fighter      fjord        folk         
+freeze       gale         grate        great        heart        
+hide         horizon      hot          humid        invertebrae  
+jester       jump         kangeroo     kitchen      kracken      
+moist        mourn        mug          near         needle       
+never        orb          paladin      petunia      quarter      
+quartet      raven        redwood      ridge        runner       
+seperate     serpent      singer       skid         slither      
+snake        snowflake    squid        survival     therek       
+tower        tree         ukelele      valley       victorious   
+warm         waterfall    widowgast    wildlands    xylophone    
+yard         yolk         zebra        zest         
+
+Third list - descending order:
+
+zest         zebra        yolk         yard         xylophone    
+wildlands    widowgast    waterfall    warm         victorious   
+valley       ukelele      tree         tower        therek       
+survival     squid        snowflake    snake        slither      
+skid         singer       serpent      seperate     runner       
+ridge        redwood      raven        quartet      quarter      
+petunia      paladin      orb          never        needle       
+near         mug          mourn        moist        kracken      
+kitchen      kangeroo     jump         jester       invertebrae  
+humid        hot          horizon      hide         heart        
+great        grate        gale         freeze       folk         
+fjord        fighter      falcon       ethereal     effortless   
+edgelord     draft        dog          doe          crocodile    
+cold         cliff        centimeter   caucaphony   book         
+bluff        barley       bard         apple        acorn        
+Up           Petrified    Owl          Oathbreaker  Oak          
+Meadowbrooke Maker        Grande       Grand        Fernbluff    
+Farrow       Dixen        Cystalridge  Creed        
+
+*** End of program execution ***
