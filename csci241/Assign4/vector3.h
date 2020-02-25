@@ -4,8 +4,6 @@
 //*****************************************************************
 // FILE:      Vector3.h
 // AUTHOR:    William Freriks
-// LOGON ID:  Z1698749
-// DUE DATE:  3/20/15
 //
 // PURPOSE:   Contains the declarations for the Vector3 class.
 //*****************************************************************
