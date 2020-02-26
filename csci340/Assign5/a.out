@@ -1,0 +1,22 @@
+Height: 14
+Size: 1000
+In order traverse (displaying first 20 numbers): 
+   89  841  654  458  995
+  116  778  291  471  126
+  344  312  607  598  705
+  599  706  833  274   54
+
+
+Pre order traverse (displaying first 20 numbers): 
+  860  759  892   11  207
+  180  410  419  607  291
+  995  654  841   89  458
+  778  116  344  126  471
+
+
+Post order traverse (displaying first 20 numbers): 
+   89  841  458  654  116
+  778  995  471  126  312
+  344  291  598  705  706
+  599  274   54  833  607
+
