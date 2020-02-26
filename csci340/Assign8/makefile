@@ -1,8 +1,6 @@
 #
-# PROGRAM:    Assignment 7
+# PROGRAM:    Application 8
 # PROGRAMMER: William Freriks
-# LOGON ID:   z1698749
-# DATE DUE:   11/05/2015
 #
 
 # Compiler variables
