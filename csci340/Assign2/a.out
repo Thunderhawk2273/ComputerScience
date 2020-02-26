@@ -1,0 +1,9 @@
+
+Conducting linear search ...
+Successfull Searches: 63.14%
+
+Conducting binary search on unsorted container ...
+Successfull Searches: 0.04%
+
+Conducting binary search on sorted container ...
+Successfull Searches: 63.14%
