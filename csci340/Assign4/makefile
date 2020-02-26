@@ -1,8 +1,6 @@
 #
-# PROGRAM:    Assignment 4
+# PROGRAM:    Application 4
 # PROGRAMMER: William Freriks
-# LOGON ID:   z1698749
-# DATE DUE:   10/1/2015
 #
 
 # Compiler variables
